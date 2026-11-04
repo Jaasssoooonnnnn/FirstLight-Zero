@@ -1,6 +1,6 @@
 # 训练历程
 
-[首页](../README.zh-CN.md) · [English](training_history.md) · [模型](../checkpoints/README.md) · [评测命令](evaluation.md)
+[首页](../README.zh-CN.md) · [English](training_history.md) · [模型](../checkpoints/README.md) · [训练指标](training_metrics.zh-CN.md) · [评测命令](evaluation.md)
 
 这篇是视频的文字版，讲的是同一次训练 `xm2-20261101d`，从第一局一直到最终模型。视频里没细说的训练设置和评测方法都写在这里。
 

@@ -11,6 +11,7 @@
 </p>
 <p align="center">
   <a href="docs/training_history.zh-CN.md">训练历程</a> ·
+  <a href="docs/training_metrics.zh-CN.md">训练指标</a> ·
   <a href="docs/getting_started.md">上手指南</a> ·
   <a href="docs/architecture.md">系统架构</a> ·
   <a href="docs/evaluation.md">评测</a> ·

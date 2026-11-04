@@ -11,6 +11,7 @@
 </p>
 <p align="center">
   <a href="docs/training_history.md">Training history</a> ·
+  <a href="docs/training_metrics.md">Training metrics</a> ·
   <a href="docs/getting_started.md">Getting started</a> ·
   <a href="docs/architecture.md">Architecture</a> ·
   <a href="docs/evaluation.md">Evaluation</a> ·

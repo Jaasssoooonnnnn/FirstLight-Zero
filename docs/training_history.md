@@ -1,6 +1,6 @@
 # Training history
 
-[Home](../README.md) · [中文版](training_history.zh-CN.md) · [Model](../checkpoints/README.md) · [Evaluation commands](evaluation.md)
+[Home](../README.md) · [中文版](training_history.zh-CN.md) · [Model](../checkpoints/README.md) · [Training metrics](training_metrics.md) · [Evaluation commands](evaluation.md)
 
 This is the written companion to the video. It follows the same run, `xm2-20261101d`, from its first game to the final model, with the training setup and the evaluation protocol.
 
