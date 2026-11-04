@@ -1,0 +1,46 @@
+{
+ "schema": "v4-ppo-deck-pool.v1",
+ "minimum_uses": 1,
+ "metadata": {
+  "description": "3.0 X-Bow mirror deck"
+ },
+ "decks": [
+  {
+   "deck_id": "4b838780adc1b30a4e0c8b3fe75a683748cf3dbc0338d89f37eab3ba0933be0e",
+   "card_keys": [
+    "archers-ev1",
+    "electro-spirit",
+    "fireball",
+    "knight-hero",
+    "skeletons",
+    "tesla-ev1",
+    "the-log",
+    "x-bow"
+   ],
+   "card_ids": [
+    26000001,
+    26000084,
+    28000000,
+    26000000,
+    26000010,
+    27000006,
+    28000011,
+    27000008
+   ],
+   "form_availability": [
+    1,
+    0,
+    0,
+    2,
+    0,
+    1,
+    0,
+    0
+   ],
+   "tower_key": "tower-princess",
+   "tower_troop_id": 159000000,
+   "uses": 1,
+   "focus_rank": null
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+  "collectors": [
+    {"host": "localhost", "port": 26789, "env_ids": [0, 1, 2, 3, 4, 5, 6, 7], "cpu": 2},
+    {"host": "localhost", "port": 26790, "env_ids": [8, 9, 10, 11, 12, 13, 14, 15], "cpu": 3}
+  ]
+}

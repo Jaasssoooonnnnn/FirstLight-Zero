@@ -1,0 +1,6 @@
+{
+  "version": "competitive-static-data.v1",
+  "scope": "normal-mode-only",
+  "source_release": "nr_15.535.13_release_ff1c6c29",
+  "source_root": "nr_15.535.13_release_ff1c6c29/assets/csv_logic"
+}

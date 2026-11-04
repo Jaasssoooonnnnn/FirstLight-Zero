@@ -1,0 +1,10 @@
+{
+  "firstlight-zero-v1450.pt": {
+    "sha256": "d5d9da809c428166dfbdcbad392bb89ee46f3119d9e50578d1b2050c692a90e1",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "temperature": 0.5,
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  }
+}

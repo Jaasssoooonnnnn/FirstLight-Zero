@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# Local deployment
+/runs/
+/engines.json
+.env
+.env.*
+
+# Game files and native builds are never distributed
+*.apk
+*.so
+*.keystore
+*.jks
+/native_runner/probe/out/
+
+# Models and datasets; curated checkpoints are listed in checkpoints/manifest.json
+*.pt
+*.safetensors
+*.parquet
+!/checkpoints/firstlight-zero-v1450.pt
