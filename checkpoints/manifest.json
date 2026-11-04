@@ -1,9 +1,212 @@
 {
+  "firstlight-zero-v50.pt": {
+    "sha256": "9b0a89a1d029f7bc009c11bdf7e862e582fa54978d7d3ec0f1aab3f01d51bf0c",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v100.pt": {
+    "sha256": "93f7c92764c67371d4ae5dc53648d090050a824f96b86353da01f0fb01440c12",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v150.pt": {
+    "sha256": "dae3e88a7053104dda12b9b693658003f08d995c8dd3fec05476701c04d1e0fc",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v200.pt": {
+    "sha256": "3c81583abd7b71651dfcc7a099df4b1cf6a901dd86326855314b0d95c1df5653",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v250.pt": {
+    "sha256": "2af0fcfb9083de10074b735b7266b979604920170b3f141e09c30a8e1ad38563",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v300.pt": {
+    "sha256": "676d3fb6f4ab21a2b94f90dd87b268e51d697a36217cf2329cb636fcfd341871",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v350.pt": {
+    "sha256": "dd204dd154238c53aa715ea7888988e361a7aa30c686bf1bea56fd2481e68694",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v400.pt": {
+    "sha256": "56239d5ff3ccbc7ca01c39e5ef5748bce6f5862f1536e774b0b7ad95421d396c",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v450.pt": {
+    "sha256": "430fd5d3fb100d88b48fd0766b604085b5831c0f773681ca9e427ddb0faf4f8f",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v500.pt": {
+    "sha256": "f89a50adc6a5e6649c4fd75c3a95e3795c1020606c1d6cc9cf9ddd5b6de07f53",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v550.pt": {
+    "sha256": "26cf258b6223822633a6fb181227bc0ee2f1aff509085cdb1891b05d308537f2",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v600.pt": {
+    "sha256": "8f636ccd769da452ab99569a0523efcfd241956d8bbb4da9dbd814c7cd804427",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v650.pt": {
+    "sha256": "27a2a98ad10999f2f7986dbe7f7ad7c0fa0e86535371c13e8ac6fe98b866e6a6",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v700.pt": {
+    "sha256": "64196d655c1879549fd89ba1a2171c35824ecfcc6b8223671ffa5c68c6d94ff5",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v750.pt": {
+    "sha256": "7451fe493e3b1cbfbb1bb3b0199865e74cf0b8992f7329862be856727b2b9e9c",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v800.pt": {
+    "sha256": "1f11f12f6e028641f83e266d7debc041546af4f13fab2a72f69bd39bee61c170",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v850.pt": {
+    "sha256": "039a433d95f4ce1dc8021f080cf00d1ebbc757ef69c29ea0787a02982b15f6bc",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v900.pt": {
+    "sha256": "c3e7d8c51bed5a449d6df98613c15cab5cb4a5a715bc23a43cc91bb7a7823d27",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v950.pt": {
+    "sha256": "c1cd33f327232f2768a55f85665ccff0c220867f2c042736b7e533f47d1af552",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1000.pt": {
+    "sha256": "a83d26ade8e28ea2f12a47568a6aaa1017c67828ed7cc9e9754ecb9700bc9bef",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1050.pt": {
+    "sha256": "6c3f50770dda3086ac27102ce817a0d6197a72352557e569302084ecbdd31dcb",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1100.pt": {
+    "sha256": "ad0cdcb998a467ea391f49877364ec5f8f70f3eeb88d8734a184ff80fb06e398",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1150.pt": {
+    "sha256": "f72b22d2747aafe9ec2f21ce391aa70072d0a5e181051a91f7f6fe5e9572ac91",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1200.pt": {
+    "sha256": "2696d547c2ab4497a2e4ade40b965305d5fec163fae5550f21f2f785e48fdbcf",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1250.pt": {
+    "sha256": "2899826e8aae54ad3cfcd855f8ba1d80852f0b54b77eedaf65ef8cbb73890ec0",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1300.pt": {
+    "sha256": "22e8bd9b97d1c3c5189f9d5aecb4bb4f37bcb0e197c5b6795aaeaac1044e8515",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1350.pt": {
+    "sha256": "e905a5058ed778963697d5e597915308939bde633885ce2df4a78e1815191b6a",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1400.pt": {
+    "sha256": "ebfe307739ebc2d9d5c5d3ecdb88505ab501f64cdcb0681dd8d08225ffdc3c8c",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
   "firstlight-zero-v1450.pt": {
     "sha256": "d5d9da809c428166dfbdcbad392bb89ee46f3119d9e50578d1b2050c692a90e1",
     "format": "torch state_dict of firstlight_zero.model.XbowNet",
     "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
     "temperature": 0.5,
+    "delay_policy": "earliest",
+    "delay_ceiling_ms": 200
+  },
+  "firstlight-zero-v1500.pt": {
+    "sha256": "1c9fae7a1f7c5cffecffa418cca372c99be2a6421d8d7e91197197f04b1d7808",
+    "format": "torch state_dict of firstlight_zero.model.XbowNet",
+    "model": {"channels": 64, "dilations": [1, 2, 4, 8], "scatter_dim": 16, "hidden": 256},
     "delay_policy": "earliest",
     "delay_ceiling_ms": 200
   }

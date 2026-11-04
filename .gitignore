@@ -22,4 +22,4 @@ venv/
 *.pt
 *.safetensors
 *.parquet
-!/checkpoints/firstlight-zero-v1450.pt
+!/checkpoints/firstlight-zero-v*.pt

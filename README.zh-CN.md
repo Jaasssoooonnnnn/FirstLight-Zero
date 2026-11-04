@@ -27,7 +27,7 @@
 
 ## 结果
 
-40 局，速弩内战，11 级。`checkpoints/` 里的是 v1450。
+40 局，速弩内战，11 级。`checkpoints/` 里有 v50 到 v1500 每 50 版一个模型，推荐用 v1450。
 
 | 对手 | 大小 | 训练方式 | 我们的版本 | 胜率 |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@
 | `firstlight_zero/` | 训练和评测：特征、模型、采集、推理服务、PPO、胜率扫描和循环赛 |
 | `native_runner/` | 从 FirstLight CR 精简来的对局环境层，探针源码在 `native_runner/probe/` |
 | `tools/` | 评测服务、战术分析、回放导出和回放校验 |
-| `checkpoints/` | `firstlight-zero-v1450.pt` |
+| `checkpoints/` | 每 50 版一个模型，`firstlight-zero-v50.pt` 到 `firstlight-zero-v1500.pt` |
 | `docs/` | 上面链接的各篇文档 |
 
 ## 快速开始

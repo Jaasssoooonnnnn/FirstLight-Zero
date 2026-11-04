@@ -77,7 +77,7 @@ python firstlight_zero/evaluate.py sweep --run runs/pretrained --name check --ve
     --opponent /path/to/v4-checkpoint.pt
 ```
 
-The opponent is any V4 checkpoint from the FirstLight model family. See [evaluation and replays](evaluation.md).
+The other versions in `checkpoints/` work the same way. The opponent is any V4 checkpoint from the FirstLight model family. See [evaluation and replays](evaluation.md).
 
 ## 5. Tests
 

@@ -27,7 +27,7 @@ After 1,450 training rounds, the 1.17M-parameter model beats a 16.8M-parameter i
 
 ## Results
 
-40 games, in the X-Bow mirror at level 11. `checkpoints/` holds v1450.
+40 games, in the X-Bow mirror at level 11. `checkpoints/` holds every 50th version from v50 to v1500; v1450 is the one to use.
 
 | Opponent | Size | Trained on | Our version | Win rate |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ It was never part of training. The [training history](docs/training_history.md) 
 | `firstlight_zero/` | Training and evaluation: features, model, collectors, inference servers, PPO learner, sweeps and round robins |
 | `native_runner/` | The battle environment layer, trimmed from FirstLight CR, with the probe source in `native_runner/probe/` |
 | `tools/` | Evaluation servers, tactics analysis, replay export and replay checks |
-| `checkpoints/` | `firstlight-zero-v1450.pt` |
+| `checkpoints/` | Every 50th version, `firstlight-zero-v50.pt` to `firstlight-zero-v1500.pt` |
 | `docs/` | The guides linked above |
 
 ## Quick start
